@@ -1,0 +1,268 @@
+ git init
+  344  git remote add origin https://github.com/aishu796/GitDemo.git
+  345  git init
+  346  git status
+  347  git add demo.txt
+  348  git status
+  349  git commit -m "added demo.txt file"
+  350  git branch
+  351  git push origin master
+  352  history
+  1  git init
+    2  git status
+    3  add.
+    4  add .
+    5  git add .
+    6  git add .
+    7  git add.
+    8  git add .
+    9  git commet -m "initial commet"
+   10  git commit -m "initial commit"
+   11  git status
+   12   cd c
+   13  git c:
+   14  cd c:
+   15  cd Brigelabz
+   16  cd Brigelabz
+   17  cd Brigelabz
+   18  cd c:
+   19   git config --global user.email"aishwaryajain2341998@gmail.com"
+   20   git config --local user.name "aishu796"
+   21   git config --global user.name "aishu796"
+   22  git config --list
+   23  n git commit -m "first commit"
+   24  cd c
+   25  pwd
+   26  ls
+   27  la -a
+   28  ls -a
+   29  mkdir Demo1
+   30  ls
+   31  cd Demo1
+   32  mkdir Demo2
+   33  pwd
+   34  touch text.txt
+   35  ls
+   36  touch text1.txt
+   37  ls
+   38  rm text1.txt
+   39  ls
+   40  rm -r Demo2/
+   41  ls
+   42  mkdir demo3
+   43  ls
+   44  touch myfile.txt
+   45  ls
+   46  mv text.txt demo3/text1.txt
+   47  touch myfile.txt
+   48  ls
+   49  cd demo2
+   50  mv myfile.txt demo3/myfile.txt
+   51  ls
+   52  cd demo3
+   53  ls
+   54  history
+   55  ls
+   56  touch demo1.txt
+   57  touch demo2.txt
+   58  ls
+   59  cp demo1.txt demo3/demo1
+   60  cp demo1.txt demo3/demo1.txt
+   61  cp demo1.txt demo2/demo1.txt
+   62  cp demo1.txt demo3/demo1.txt
+   63  cp demo1.txt demo2/demo1.txt
+   64  cp demo1.txt demo3/demo1.txt
+   65  pwd
+   66  ls
+   67  ls .
+   68  ls -1
+   69  mkdir temp
+   70  ls
+   71  rm -R temp mkdir demo
+  270  cd demo
+  271  touch hello.java
+  272  nano hello.java
+  273  javac hello.java
+  274  java hello
+  275  java hello.java
+  276  clear
+  277  touch data.csv
+  278  cat data.csv | grep dolly |awk '{print $3}'
+  279  cat data.csv | grep dolly |awk '{print $2}'
+  280  head -3
+  281  head -3 data.csv
+  282  tail -3 data.csv
+  283  cat data.csv | grep dolly |awk '{print $3}'
+  284  awk '$3 > 10 { print $2}' data.csv
+  285  echo data.csv
+  286  cat data.csv
+
+   72  mkdir -p temp/temp
+   73  ls
+   74  cd temp/
+   75  pwd
+   76  ls
+   77  toch test
+   78  touch test
+   79  ls -p
+   80  cp test test1
+   81  ls -p
+   82  mv test1 test2
+   83  ls =p
+   84  ls -p
+   85  ln -stest temp/
+   86  ln -s test temp/
+   87  ls -p test temp/
+   88  ls /bin
+   89  ls
+   90  ls linux -content
+   91  ls -a
+   92  ls -al
+   93  pwd.
+   94  pwd
+   95  ls -
+   96  cd ~
+   97  cd -
+   98  .ls~
+   99  ls ~
+  100  pwd
+  101  ls ..
+  102  mkdir temp
+  103  rm -r temp
+  104  ls
+  105  mkdir -p temp/temp
+  106  ls
+  107  ls -al
+  108  clear
+  109  otuch a.txt b.txt c.txt
+  110  touch a.txt b.txt c.txt
+  111  ls
+  112  ls -p
+  113  ls -l
+  114  touch a.pdf
+  115  ls
+  116  cp a.txt test.txt
+  117  mv b.txt x.txt
+  118  ls
+  119  whereis cp
+  120  whereis cp
+  121  ls
+  122  clear
+  123  ls
+  124  ls ..
+  125  ls ../../
+  126  cd
+  127  cd ..
+  128  cd ../
+  129  pwd
+  130  ls
+  131  mkdir demo2
+  132  mkdir 1
+  133  makdir demo1
+  134  mkdir demi1
+  135  ls
+  136  cd Demo2
+  137  ls
+  138  find -name data.txt
+  139  find -name *.txt
+  140  find -name *.csv
+  141  mkdir data.csv
+  142  ls
+  143  mkdir data.csv
+  144  find -name *.csv
+  145  mkdir demo1
+  146  ls
+  147  ls ..
+  148  cd demo1
+  149  cd ~
+  150  cd demo1
+  151  echo hello world
+  152  echo Aishwarya
+  153  echo hello Aishu | awk '{print $0}
+  154  echo hello Aishu | awk '{print $0}'
+  155  cd
+  156  hhhh
+  157  echo hello Aishu | awk '{print $0}
+  158  echo hello Aishu | awk '{print $0}'
+  159  cd
+  160  hhhh
+  161  echo hello Aishu | awk '{print $0}'
+  162  echo hello Aishu | awk '{print $1}'
+  163  echo hello Aishu | awk '{print $2}'
+  164  find -size +5M
+  165  find -size +5M
+  166  fFunction Key 82w`pwd
+  167  pwd
+  168  pwd
+  169  ls
+  170  touch data.csv
+  171  ls
+  172  cd demo1
+  173  ls
+  174  touch data.csv
+  175  cat data.csv
+  176  nano data.txt
+  177  cat data.txt
+  178  cat data1.txt
+  179  ls
+  180  cat data.txtes
+  181  ls
+  182  mkdir demo2
+  183  ls
+  184  ls
+  185  find -name *.csv
+  186  pwd
+  187  find -name data.csv
+  188  pwd
+  189  cat data.csv | grep e | awk '{print $2}'
+  190  cat data.csv | grep p | awk '{print $2}'
+  191  cat data.csv | grep B | awk '{print $1 " "$2}'
+  192  cat data.csv | grep b | awk '{print $1 " "$2}'
+  193  pwd
+  194  head data.csv
+  195  tail data.csv
+  196  head -2 data.csv
+  197  tail -3 data.csv
+  198  history
+  199  nano hello.java
+  200  nano Hello.java
+  201  cat Hello.java
+  202  namo Hello.java
+  203  nano Hello.java
+  204  javac Hello.java
+  205  java Hello.java
+  206  java Hello
+  207  history
+ git init
+  344  git remote add origin https://github.com/aishu796/GitDemo.git
+  345  git init
+  346  git status
+  347  git add demo.txt
+  348  git status
+  349  git commit -m "added demo.txt file"
+  350  git branch
+  351  git push origin master
+  352  history
+
+
+ git branch
+  354  git checkout -b
+  355  git checkout -b UC1
+  356  git branch
+  357  touch demo2.txt
+  358  nano demo2.txt
+  359  ls
+  360  git add demo2.txt
+  361  git commit -m "added demo2.txt file"
+  362  git push origin UC1
+  363  git checkout master
+  364  git branch
+  365  git merge UC1
+  366  git push origin master
+  367  git checkout -b UC2
+  368  git checkout master
+  369  git delete -d UC2
+  370  git branch -d UC2
+  371  git branch
+  372  git branch -m Uc1 DemoUC1
+  373  git branch
